@@ -1,0 +1,23 @@
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Node / React
+node_modules/
+dist/
+build/
+npm-debug.log*
+
+# OS / Logs
+.DS_Store
+Thumbs.db
+*.log
